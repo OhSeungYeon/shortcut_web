@@ -70,3 +70,36 @@ body {
 	color: white;
 	font-size: 15px;
 }
+
+
+
+
+
+
+
+.team1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.intro {
+	position: relative;
+	top: 50px;
+}
+
+.intro-contemts p {
+	display: none;
+}
+
+div1 {
+    float:left;
+    top: -300px;
+}
+
+div2 {
+    top:90px;
+}
+
+
+
