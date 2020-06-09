@@ -79,13 +79,13 @@ body {
 
 .team1 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin-bottom: 100px;
 }
 
 .intro {
 	position: relative;
-	top: 50px;
+	top: 45px;
 }
 
 .intro-contemts p {
@@ -93,12 +93,22 @@ body {
 }
 
 div1 {
-    float:left;
     top: -300px;
 }
 
 div2 {
     top:90px;
+}
+
+.team2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.youtube {
+	position: relative;
+	top: 45px;
 }
 
 
